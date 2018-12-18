@@ -1,0 +1,23 @@
+{
+  "name": "HackerWeb",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "alt": "~0.18.4",
+    "buffer": "~4.6.0",
+    "events": "~1.1.0",
+    "htmlparser2": "~3.9.0",
+    "react": "~15.1.0",
+    "react-addons-pure-render-mixin": "~15.1.0",
+    "react-native": "~0.27.2",
+    "react-native-android-share": "https://github.com/haydenth/react-native-android-share.git",
+    "react-native-cache-store": "~1.0.2",
+    "react-native-chrome-custom-tabs": "~0.0.2",
+    "react-native-safari-view": "~0.4.1",
+    "stream": "~0.0.2",
+    "url-parse": "~1.1.1"
+  }
+}
